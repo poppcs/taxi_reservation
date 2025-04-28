@@ -1,4 +1,4 @@
-Taxi Researvation API documatation
+Taxi Researvation API documentation
 
 Requirement
  - Nodejs v.22.12
